@@ -2,9 +2,9 @@
 
 ## Prerequisite
 `Java-11`
-`Maven`
 `Docker`
-`Mysql client`
+`Maven`
+`Mysql `
 
 ## Start docker mysql
 ```
